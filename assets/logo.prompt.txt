@@ -1,0 +1,8 @@
+Use case: logo-brand.
+Asset type: a single square project logo for a GitHub repository and a Telegram Bot avatar.
+Primary request: create an original, polished icon for video2interleaved-imagetext, a tool that turns videos into readable articles with interleaved original screenshots and text. Do not render the project name or any text.
+Concept: one coherent, distinctive emblem combining a video play symbol with an article page. A rounded blue video frame on the left flows into a simple white document shape on the right as a unified silhouette. The white play triangle is bold and unmistakable. Within the document, alternate short navy text lines with one small warm amber image tile containing a very simple white mountain silhouette, then another text line, clearly conveying interleaved image and text. Treat these as one integrated mark, not a workflow diagram or a row of separate icons. Use balanced geometric proportions and intentional negative space.
+Style: crisp flat 2D vector-like brand design, confident rounded geometry, few bold shapes, clean edges, restrained detail, professional open-source software identity, recognizable even at 48 pixels.
+Composition: square 1024x1024 image; a single centered emblem occupying roughly 65-70% of the canvas, with ample clear padding so it also works when cropped to a circular avatar.
+Palette: vivid cyan blue, deep navy, one warm amber accent. Plain very pale cool-white background. High contrast.
+Constraints: no words, no letters, no tiny text, no watermarks, no gradients, no shadows, no 3D, no mockup, no border, no extra decorative objects. Do not use existing Telegram or YouTube logos. Produce one finished logo, not multiple variations on one sheet.

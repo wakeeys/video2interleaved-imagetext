@@ -1,0 +1,20 @@
+# Secrets and local settings
+env.yaml
+.env
+*.key
+
+# Generated media and notes
+output/
+*.part
+*.ytdl
+
+# Python and editors
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.tmp/
+.idea/
+.vscode/
+Detailed_README.md
